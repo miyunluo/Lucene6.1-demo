@@ -14,7 +14,7 @@ documents文件夹的组织需遵守上述规定，以保证程序按照限定�
 
 ## 结果展示
 
-见 程序运行结果展示.pdf
+见[博客](http://miyunluo.com/2016/10/12/Lucene/)
 
 ## File organization
 
@@ -28,4 +28,4 @@ Lucene 6.1.0<br>
 java 1.8.0_91
 
 ## Result
-See websit 
+See [blog](http://miyunluo.com/2016/10/12/Lucene/)
